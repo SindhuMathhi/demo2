@@ -2,4 +2,6 @@
 
 some text
 
-## try to push
+## development methods
+
+1. open index.ts in browser
